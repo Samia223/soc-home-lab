@@ -118,5 +118,3 @@ Another area is alerting. So far, I've focused on generating events, confirming 
 ## Notes
 
 All simulations were carried out in a controlled Windows VM. The screenshots show activity generated for testing, not genuine security incidents.
-
-All simulations were carried out in a controlled Windows VM. The screenshots show activity generated for testing, not genuine security incidents.
