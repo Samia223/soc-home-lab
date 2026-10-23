@@ -1,6 +1,3 @@
-# soc-home-lab
-Windows SOC home lab using Splunk, Sysmon and Atomic Red Team to investigate simulated attacks and develop MITRE ATT&amp;CK aligning detections.
-
 # SOC Home Lab: Windows Monitoring with Splunk
 
 I built a Windows SOC lab to practise collecting and investigating endpoint activity using Splunk and Sysmon. The aim was to understand how common attacker techniques appear in Windows event logs and develop searches to identify them.
